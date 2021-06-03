@@ -1,4 +1,4 @@
-testing
+thetesting rule
 <!DOCTYPE html>
 <html lang="en">
   <head>
