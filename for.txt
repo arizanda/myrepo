@@ -1,0 +1,192 @@
+<form accept-charset="UTF-8" action="https://sv164.infusionsoft.com/app/form/process/8b4bebda3f9e46700f01d983fdd2c81c" class="infusion-form contact-form" id="inf_form_8b4bebda3f9e46700f01d983fdd2c81c" method="POST">
+    <input name="inf_form_xid" type="hidden" value="8b4bebda3f9e46700f01d983fdd2c81c" />
+    <input name="inf_form_name" type="hidden" value="Web Form submitted" />
+    <input name="infusionsoft_version" type="hidden" value="1.70.0.361825" />
+    <ul class="no-list hasfloat">
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_FirstName">Full Name *</label>
+        <input id="inf_field_FirstName" name="inf_field_FirstName" placeholder="Full Name *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Email">Email *</label>
+        <input id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Phone1">Phone</label>
+        <input id="inf_field_Phone1" name="inf_field_Phone1" placeholder="Phone" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whatareyouinquiringabout">What are you inquiring about? *</label>
+        <textarea cols="24" id="inf_custom_Whatareyouinquiringabout" name="inf_custom_Whatareyouinquiringabout" placeholder="What are you inquiring about? *" rows="5"></textarea></div>
+     </li>   
+    <li>
+    <div class="infusion-submit">
+        <button type="submit">Submit</button>
+    </div>
+    </li>
+    </ul>
+</form>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webTracking/getTrackingCode"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.com/app/timezone/timezoneInputJs?xid=8b4bebda3f9e46700f01d983fdd2c81c"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webform/overwriteRefererJs"></script>
+
+
+
+
+
+
+
+<form accept-charset="UTF-8" action="https://sv164.infusionsoft.com/app/form/process/7ec44c58382132e2c7caac3c89c17c40" class="infusion-form ielts-training" id="inf_form_7ec44c58382132e2c7caac3c89c17c40" method="POST">
+    <input name="inf_form_xid" type="hidden" value="7ec44c58382132e2c7caac3c89c17c40" />
+    <input name="inf_form_name" type="hidden" value="IELTS web form" />
+    <input name="infusionsoft_version" type="hidden" value="1.70.0.361825" />
+    <ul class="no-list hasfloat">
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_FirstName">First Name *</label>
+        <input id="inf_field_FirstName" name="inf_field_FirstName" placeholder="First Name *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_LastName">Last Name *</label>
+        <input id="inf_field_LastName" name="inf_field_LastName" placeholder="Last Name *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Email">Email *</label>
+        <input id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Phone1">Phone *</label>
+        <input id="inf_field_Phone1" name="inf_field_Phone1" placeholder="Phone *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-submit">
+        <button type="submit">Submit</button>
+    </div>
+    </li>
+    </ul>
+</form>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webTracking/getTrackingCode"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.com/app/timezone/timezoneInputJs?xid=7ec44c58382132e2c7caac3c89c17c40"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webform/overwriteRefererJs"></script>
+
+
+
+
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.5.1/css/pikaday.min.css" rel="stylesheet" type="text/css" /><link href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.5.1/css/pikaday.min.css" rel="stylesheet" type="text/css" /><form accept-charset="UTF-8" action="https://sv164.infusionsoft.com/app/form/process/063271aa79e4f5bada86c88623735c7c" class="infusion-form" id="inf_form_063271aa79e4f5bada86c88623735c7c" method="POST">
+    <input name="inf_form_xid" type="hidden" value="063271aa79e4f5bada86c88623735c7c" />
+    <input name="inf_form_name" type="hidden" value="Visas For NZ Assessment" />
+    <input name="infusionsoft_version" type="hidden" value="1.70.0.361825" />
+    <ul class="no-list hasfloat">
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_FirstName">Full Name *</label>
+        <input id="inf_field_FirstName" name="inf_field_FirstName" placeholder="Full Name *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Email">Email *</label>
+        <input id="inf_field_Email" name="inf_field_Email" placeholder="Email *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_field_Phone1">Phone Inc Country Code *</label>
+        <input id="inf_field_Phone1" name="inf_field_Phone1" placeholder="Phone Inc Country Code *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_DateofBirth">Date of Birth *</label>
+        <div class="infusion-calendar-wrapper">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.0/moment.min.js" type="text/javascript"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.5.1/pikaday.min.js" type="text/javascript"></script>
+            <input class="infusion-field-input-container infusion-date-input" id="inf_custom_DateofBirth" name="inf_custom_DateofBirth" onkeydown="if(pressDate){return pressDate(event,this,true)}" placeholder="Date of Birth *" size="10px" type="text" />
+            <div class="calendar-picker-container">
+                <div class="cal-popup">
+                    <svg height="24" id="inf_custom_DateofBirth_img" viewbox="0 0 28 28" width="24">
+                        <path d="M7 10H12V15H7M19 19H5V8H19M19 3H18V1H16V3H8V1H6V3H5C3.9 3 3 3.9 3 5V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V5A2 2 0 0 0 19 3Z">
+                    </path></svg>
+                </div>
+                <div class="pikaday-container" id="inf_custom_DateofBirth_calContainer">
+            </div>
+            <script>var inf_custom_DateofBirthDatePicker = new Pikaday({container: document.getElementById('inf_custom_DateofBirth_calContainer'),field: document.getElementById('inf_custom_DateofBirth'),format:'DD-MM-YYYY'});var inf_custom_DateofBirthIcon = document.getElementById('inf_custom_DateofBirth_img');inf_custom_DateofBirthIcon.addEventListener('click', function(){inf_custom_DateofBirthDatePicker.show();});</script>
+        </div>
+        </div>
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whatcountryareyouacitizenof">What country are you a citizen of? *</label>
+        <input id="inf_custom_Whatcountryareyouacitizenof" name="inf_custom_Whatcountryareyouacitizenof" placeholder="What country are you a citizen of? *" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whatcountryisyourpartneracitizenof">What country is your partner a citizen of?</label>
+        <input id="inf_custom_Whatcountryisyourpartneracitizenof" name="inf_custom_Whatcountryisyourpartneracitizenof" placeholder="What country is your partner a citizen of?" type="text" />
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whattypeofvisadoyoucurrentlyhold">What type of visa do you currently hold? *</label>
+        <div class="infusion-field-input-container">
+            <select id="inf_custom_Whattypeofvisadoyoucurrentlyhold" name="inf_custom_Whattypeofvisadoyoucurrentlyhold"><option value="">What type of visa do you currently hold? *</option><option value="None">None</option><option value="Visitor">Visitor</option><option value="Work">Work</option><option value="Partnership">Partnership</option><option value="Student">Student</option><option value="Residence">Residence</option></select>
+        </div>
+    </div>
+    
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whatisthevisaexpirydate">What is the visa expiry date?</label>
+        <div class="infusion-calendar-wrapper">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.0/moment.min.js" type="text/javascript"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.5.1/pikaday.min.js" type="text/javascript"></script>
+            <input class="infusion-field-input-container infusion-date-input" id="inf_custom_Whatisthevisaexpirydate" name="inf_custom_Whatisthevisaexpirydate" onkeydown="if(pressDate){return pressDate(event,this,true)}" placeholder="What is the visa expiry date?" size="10px" type="text" />
+        </div>
+        <div class="calendar-picker-container">
+            <div class="cal-popup">
+                <svg height="24" id="inf_custom_Whatisthevisaexpirydate_img" viewbox="0 0 28 28" width="24">
+                    <path d="M7 10H12V15H7M19 19H5V8H19M19 3H18V1H16V3H8V1H6V3H5C3.9 3 3 3.9 3 5V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V5A2 2 0 0 0 19 3Z">
+                </path></svg>
+            </div>
+            <div class="pikaday-container" id="inf_custom_Whatisthevisaexpirydate_calContainer"></div>
+        <script>var inf_custom_WhatisthevisaexpirydateDatePicker = new Pikaday({container: document.getElementById('inf_custom_Whatisthevisaexpirydate_calContainer'),field: document.getElementById('inf_custom_Whatisthevisaexpirydate'),format:'DD-MM-YYYY'});var inf_custom_WhatisthevisaexpirydateIcon = document.getElementById('inf_custom_Whatisthevisaexpirydate_img');inf_custom_WhatisthevisaexpirydateIcon.addEventListener('click', function(){inf_custom_WhatisthevisaexpirydateDatePicker.show();});</script>
+        </div>
+    </div>
+    </li>
+    <li>
+    <div class="infusion-field">
+        <label for="inf_custom_Whatvisaareyoulookingtoapplyfor">What visa are you looking to apply for? *</label>
+        <div class="infusion-field-input-container">
+            <select id="inf_custom_Whatvisaareyoulookingtoapplyfor" name="inf_custom_Whatvisaareyoulookingtoapplyfor"><option value="">What visa are you looking to apply for? *</option><option value="Visitor">Visitor</option><option value="Work">Work</option><option value="Partnership">Partnership</option><option value="Student">Student</option><option value="Residence">Residence</option><option value="Other">Other</option></select>
+        </div>
+    </div>
+    </li>
+    <li>
+    <div class="infusion-submit">
+        <button type="submit">Submit</button>
+    </div>
+    </li>
+	</ul>
+</form>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webTracking/getTrackingCode"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.com/app/timezone/timezoneInputJs?xid=063271aa79e4f5bada86c88623735c7c"></script>
+<script type="text/javascript" src="https://sv164.infusionsoft.app/app/webform/overwriteRefererJs"></script>
